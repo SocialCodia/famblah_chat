@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/miGroupInfo"
+        android:title="About Group"
+        android:orderInCategory="11"
+        />
+
+
+    <item
+        android:id="@+id/miAddMember"
+        android:title="Add Member"
+        android:orderInCategory="10"
+        />
+
+    <item
+        android:id="@+id/miLeaveGroup"
+        android:title="Leave Group"
+        android:orderInCategory="10"
+        />
+
+</menu>

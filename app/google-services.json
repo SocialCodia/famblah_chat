@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "399429683541",
+    "firebase_url": "https://famblah-app.firebaseio.com",
+    "project_id": "famblah-app",
+    "storage_bucket": "famblah-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399429683541:android:aec52e32460ad354dc87dc",
+        "android_client_info": {
+          "package_name": "com.socialcodia.famblah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399429683541-itin940d2nd7f47qivapi5bsa8ed8ujf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdwP3Fon0NgWP2B9BxEaLGoCVnXHUCVbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399429683541-itin940d2nd7f47qivapi5bsa8ed8ujf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

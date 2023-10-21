@@ -1,0 +1,2 @@
+rootProject.name='famblah'
+include ':app'
